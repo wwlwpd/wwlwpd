@@ -7,4 +7,4 @@
                  
 **Coastal Computing Service, LLC.** provides customized programming (specializing in Perl and "Unix" shell scripting), devops, and operational support with a particular focus on real time ADCIRC storm surge model automation for HPC clusters. The founder of CCS, LLC is one of the original developers of the ASGS (ADCIRC Storm Guidance System) and currently serves as the lead developer and architect of this system.
 
-I am currently accepting contract work. Email, client.supportREMOVE@NOSPAMcoastalcomputingservices.net.
+I am currently accepting contract work. Visit https://brett.acutisdata.com/ for contact information or email, brett.estrade@coastalcomputingservices.net.
